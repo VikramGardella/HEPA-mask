@@ -1,12 +1,12 @@
 # HEPA-mask
 
----Printing Instructions---
 
 Items to Print:
 - "mask 6-5" x 1
 - "faceshield 6-5" x 1
 - "ring 6-5" x 2
 - "cap 6-5" x 2
+
 
 Required Materials:
 - 1.75mm PLA filament
@@ -33,3 +33,14 @@ Printing Specifications:
 - Interface Layer Speed = 40mm/s
 - Bridge Speed = 20mm/s
 - Travel Speed = 120mm/s
+
+
+Printing Instructions:
+- Download .stl files
+- Compile the .gcode specific for your printer from them using a software like Matter Control 2.0
+- Calibrate printer before each print
+- Depending on the filament used, determine if a "raft" should be used for the prints.
+
+
+Assembly Instructions:
+
